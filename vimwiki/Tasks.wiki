@@ -1,7 +1,0 @@
-= Tasks = 
-* Graph firewall traffic and collect fw log data 
-* Need a fix for U20...google drive?
-* Krack for redmond and cairo
-* schedule cost model for tomorrow during mgmt meeting time
-  a) Create cost model spreadsheet 
-  

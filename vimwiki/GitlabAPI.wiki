@@ -1,8 +1,0 @@
-* Create Groups
-curl --header "PRIVATE-TOKEN: zx_eSs83du2YpcsdMSSw" -d "name=Test&path=test&visibility=internal" "http://gitlab.m2s.com/api/v4/groups" | pretty
-* Get Group Members
-curl --header "PRIVATE-TOKEN: zx_eSs83du2YpcsdMSSw" "http://gitlab.m2s.com/api/v4/groups/45/members" | pretty
-* Get User Info
-curl --header "PRIVATE-TOKEN: zx_eSs83du2YpcsdMSSw" "http://gitlab.m2s.com/api/v4/users?username=spann" | pretty
-* Create a new user
-* 
