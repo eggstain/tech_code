@@ -1,0 +1,6 @@
+* How to mirror/migrate
+git clone --mirror jenkins@cisystem:src/git/IS_Ops.git
+git remote add gitlabISOPS git@gitlab.m2s.com:IT/IS_Ops.git
+git push --all gitlabISOPS
+
+* [[GitlabAPI]]

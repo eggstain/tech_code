@@ -1,0 +1,5 @@
+= Data Integration Slack Improvements =
+* add this to job
+    curl -X POST --data-urlencode "payload={\"text\": \"We Found a TEST FILE...GiddyUP\"}" https://hooks.slack.com/services/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
+    
+    

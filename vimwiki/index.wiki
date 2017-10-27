@@ -1,0 +1,3 @@
+ = Erik's Knowledge Base =
+* [[Tasks]]
+* [[Notes]]
